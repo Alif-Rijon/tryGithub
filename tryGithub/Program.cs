@@ -10,7 +10,7 @@ namespace tryGithub
     {
         static void Main(string[] args)
         {
-
+            Console.WriteLine("rijon");
         }
     }
 }
