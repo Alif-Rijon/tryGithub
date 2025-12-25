@@ -12,6 +12,7 @@ namespace tryGithub
         {
             Console.WriteLine("rijon");
             Console.WriteLine();
+            Console.Write("alif");
         }
     }
 }
