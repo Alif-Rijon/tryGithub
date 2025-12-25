@@ -11,6 +11,7 @@ namespace tryGithub
         static void Main(string[] args)
         {
             Console.WriteLine("rijon");
+            Console.WriteLine();
         }
     }
 }
