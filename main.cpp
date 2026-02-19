@@ -9,7 +9,8 @@ int main()
     {
        cout<<"Rijon"<<endl;
      //nothing to see there
-     cout<<5+7;
+     cout<<5+7=10;
+        
     }
     return 0;
 }
