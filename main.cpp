@@ -8,7 +8,8 @@ int main()
     if(6>9)
     {
        cout<<"Rijon"<<endl;
-     //nothing to see there 
+     //nothing to see there
+     cout<<5+7;
     }
     return 0;
 }
